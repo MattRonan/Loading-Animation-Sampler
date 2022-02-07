@@ -1,7 +1,6 @@
 /* 2016-2022 Matt Ronan
 *  Licensed under the Apache License, Version 2.0 (the "License");
 *
-*
 * Loading animation sampler platter in Processing
 * 'd' to switch design
 * 'p' to pause
