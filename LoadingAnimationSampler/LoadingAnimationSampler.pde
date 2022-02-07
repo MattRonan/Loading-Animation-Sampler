@@ -1,8 +1,12 @@
-//-----loading animation sampler platter in Processing
-//-----Matt Ronan 2016-2022
-//'d' to switch design
-//'p' to pause
-//(click inside drawing window first)
+/* 2016-2022 Matt Ronan
+*  Licensed under the Apache License, Version 2.0 (the "License");
+*
+*
+* Loading animation sampler platter in Processing
+* 'd' to switch design
+* 'p' to pause
+* (click inside drawing window first)
+*/
 
 int bgVal = 0;
 boolean paused = false;
